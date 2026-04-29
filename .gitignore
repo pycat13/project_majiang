@@ -1,0 +1,7 @@
+# Monorepo root — do not commit virtualenv / IDE noise under Mahjong-AI
+Mahjong-AI/.venv/
+Mahjong-AI/.venv*/
+Mahjong-AI/.idea/
+
+# Optional venv at repo root
+.venv/
